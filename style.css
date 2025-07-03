@@ -1,0 +1,44 @@
+.container{
+    width:100%;
+    height:80%;
+    background-color: aqua;
+}
+.header h1{
+    width:100%;
+    height:29%;
+    background-color:brown;
+}
+h1{
+    color:beige;
+    text-align: center;
+    padding:25px;
+    font-size: 50px;
+}
+li{
+    list-style-type:none;
+    float:left;
+
+a{
+    color:#ffffff;
+    font-size: 25px;
+padding: 25px;
+text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+}
+#menubar{
+    width:100%;
+    height:39%;
+    background-color:black;
+}
+.maincontent{
+    width:100%;
+    height:50%;
+}
+.footer{
+    width:100%;
+    height:60%;
+    background-color:#7f8aff;
+}
